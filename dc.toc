@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}\fontfamily {qcs}\selectfont AIM :}{2}% 
+\contentsline {section}{\numberline {2}\fontfamily {qcs}\selectfont BLOCK DIAGRAM :}{2}% 
+\contentsline {section}{\numberline {3}\fontfamily {qcs}\selectfont EQUATIONS :}{3}% 
+\contentsline {section}{\numberline {4}\fontfamily {qcs}\selectfont PYTHON CODE :}{3}% 
+\contentsline {section}{\numberline {5}\fontfamily {qcs}\selectfont OBSERVATIONS :}{7}% 
+\contentsline {section}{\numberline {6}\fontfamily {qcs}\selectfont RESULT :}{11}% 
